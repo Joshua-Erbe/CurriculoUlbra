@@ -1,0 +1,94 @@
+.Experiencia{
+    margin-bottom: 30px;
+}
+
+.TitulosProf{
+    font-size: 22pt;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
+.Exp{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.CargoExp{
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.DataExp{
+    margin-bottom: 15px;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+/*Trabalhos*/
+
+.TarefasTrab{
+    margin-left: 25px;
+}
+
+.Descrições{
+    margin-bottom: 15px;
+    line-height: 20px;
+    text-align: justify;
+    font-size: 14px;
+}
+
+/*Habilidades*/
+
+.Skills{
+    margin-top: 20px;
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.skill{
+    padding: 5px;
+    height: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 15px;
+}
+
+.Progresso{
+    border: 2px solid black;
+    width: 220px;
+    border-radius: 4px;
+    padding: 1px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.medio{
+    background-color: rgb(243, 243, 118);
+}
+
+.avancado{
+    background-color: rgb(118, 247, 118);
+}
+
+.basico{
+    background-color: rgb(253, 122, 118);
+}
+
+.SubHabil{
+    margin-top: 10px;
+    margin-left: 25px;
+    font-size: 16px;
+    font-style: italic;
+}
+
+.DescricaoSkills{
+    margin-left: 45px;
+    margin-top: 30px;
+}
